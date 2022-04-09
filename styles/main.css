@@ -1,0 +1,47 @@
+.conteudo{
+  display: flex;
+  width: 95%;
+  max-width: 1200px;
+  justify-content: space-between;
+  color: #fff;
+  margin: 0 auto;
+}
+
+.img-conteudo{
+  max-width: 401px;
+}
+
+.caixa-conteudo{
+  max-width: 704px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.conteudo-h1, .conteudo-s {
+  font-size: 3.6rem;
+  margin-bottom: 5.9rem;
+}
+
+.caixa-conteudo p{
+font-family: 'Open Sans';
+font-weight: 400;
+font-size: 1.6rem;
+line-height: 2.8rem;
+text-align: center;
+}
+
+.caixa-conteudo span{
+  color: #00BFA6;
+}
+
+.conteudo-p{
+  max-width: 620px;
+}
+
+.line{
+    width: 568px;
+    height: 0;
+    border: 1px solid #00BFA6;
+    margin: 157px auto 27px auto;
+}

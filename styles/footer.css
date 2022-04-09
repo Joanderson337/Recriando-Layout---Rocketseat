@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  color: #fff;
+}
+
+.footer-img{
+  position: fixed;
+  left: 20px;
+  max-width: 51px;
+  width: 100%;
+  bottom: 20px;
+}
+

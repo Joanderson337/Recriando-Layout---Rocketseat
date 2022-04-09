@@ -1,0 +1,28 @@
+.wrapper{
+  display: flex;
+  justify-content: space-between;
+  width: 95%;
+  max-width: 1200px;
+  margin: 0 auto;
+  color: #FFF;
+}
+
+
+.cabecalho{
+  margin: 7.1rem 0;
+
+}
+
+
+.text-logo{
+  font-family: 'JetBrains Mono', monospace, sans-serif;
+  font-weight: 700;
+  font-size: 2.4rem;
+}
+
+.cabecalho-nav{
+  display: flex;
+  justify-content: space-around;
+  gap: 6.4rem;
+}
+
